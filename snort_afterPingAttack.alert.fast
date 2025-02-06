@@ -1,0 +1,204 @@
+05/03-11:14:53.240181  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 1] {UDP} 192.168.61.2:53 -> 192.168.61.131:49749
+05/03-11:15:55.000381  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:44265
+05/03-11:15:55.796144  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:61188 -> 239.255.255.250:1900
+05/03-11:15:55.796144  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.1:61188 -> 239.255.255.250:1900
+05/03-11:15:56.801744  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:61188 -> 239.255.255.250:1900
+05/03-11:15:56.801744  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.61.1:61188 -> 239.255.255.250:1900
+05/03-11:15:57.813030  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 1] {UDP} 192.168.61.1:61188 -> 239.255.255.250:1900
+05/03-11:15:57.813030  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.61.1:61188 -> 239.255.255.250:1900
+05/03-11:15:58.826654  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:61188 -> 239.255.255.250:1900
+05/03-11:16:43.678382  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 185.125.190.57:123 -> 192.168.61.131:58059
+05/03-11:16:55.656232  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 1] {UDP} 192.168.61.254:67 -> 192.168.61.131:68
+05/03-11:16:55.682716  [**] [1:100004:1] ICMP HPing3 echo request Detected [**] [Priority: 0] {IPV6-ICMP} fe80::fd53:e7b7:a75f:f4cd -> ff02::16
+05/03-11:16:55.682716  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {IPV6-ICMP} fe80::fd53:e7b7:a75f:f4cd -> ff02::16
+05/03-11:16:56.419847  [**] [1:100004:1] ICMP HPing3 echo request Detected [**] [Priority: 0] {IPV6-ICMP} fe80::fd53:e7b7:a75f:f4cd -> ff02::16
+05/03-11:16:56.419847  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {IPV6-ICMP} fe80::fd53:e7b7:a75f:f4cd -> ff02::16
+05/03-11:17:35.104349  [**] [1:100004:1] ICMP HPing3 echo request Detected [**] [Priority: 0] {IPV6-ICMP} fe80::20c:29ff:feaa:ab69 -> ff02::2
+05/03-11:17:35.104349  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {IPV6-ICMP} fe80::20c:29ff:feaa:ab69 -> ff02::2
+05/03-11:17:40.514488  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.61.2:53 -> 192.168.61.131:40986
+06/03-11:17:40.529252  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.61.2:53 -> 192.168.61.131:51226
+06/03-11:17:55.821428  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 5] {UDP} 192.168.61.3:61202 -> 239.255.255.250:40986
+06/03-11:17:55.821428  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.61.3:61202 -> 239.255.255.250:40986
+06/03-11:17:56.826664  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.3:61202 -> 239.255.255.250:40986
+06/03-11:17:56.826664  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.61.3:61202 -> 239.255.255.249:40986
+06/03-11:17:57.841045  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.3:61202 -> 239.255.255.249:40986
+06/03-11:17:57.841045  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.61.3:61202 -> 239.255.255.249:40986
+06/03-11:17:58.869467  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.3:61202 -> 239.255.255.249:40986
+06/03-11:17:58.869467  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.61.3:61202 -> 239.255.255.249:40986
+06/03-11:19:25.076143  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.61.2:53 -> 192.168.61.131:56745
+06/03-11:19:53.244380  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 192.168.61.2:53 -> 192.168.61.131:59857
+06/03-11:19:53.260264  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:59857
+06/03-11:19:55.865176  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:53134 -> 239.255.255.249:40986
+06/03-11:19:55.865176  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.1:53134 -> 239.255.255.249:40986
+06/03-11:19:56.852771  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:53134 -> 239.255.255.249:40986
+06/03-11:19:56.852771  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.1:53134 -> 239.255.255.249:40986
+06/03-11:19:57.858225  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:53134 -> 239.255.255.249:40986
+06/03-11:19:57.858225  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.1:53134 -> 239.255.255.249:40986
+06/03-11:19:58.833448  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:53134 -> 239.255.255.249:1900
+06/03-11:19:58.833448  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 2] {UDP} 192.168.61.1:53134 -> 239.255.255.250:1900
+06/03-11:20:31.336183  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 4] {UDP} 192.168.61.2:53 -> 192.168.61.131:52311
+06/03-11:20:31.336209  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 4] {UDP} 192.168.61.2:53 -> 192.168.61.131:45451
+06/03-11:20:39.306210  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 4] {UDP} 192.168.61.2:53 -> 192.168.61.131:36512
+06/03-11:20:39.355050  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 4] {UDP} 192.168.61.2:53 -> 192.168.61.131:36512
+06/03-11:20:43.341855  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 4] {UDP} 192.168.61.2:53 -> 192.168.61.131:55577
+06/03-11:20:43.358969  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 4] {UDP} 192.168.61.2:53 -> 192.168.61.131:46131
+06/03-11:20:55.021088  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 4] {UDP} 192.168.61.2:53 -> 192.168.61.131:58403
+06/03-11:20:59.465340  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 4] {UDP} 192.168.61.2:53 -> 192.168.61.131:34032
+06/03-11:21:00.023393  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 2] {UDP} 185.125.190.57:123 -> 192.168.61.131:40560
+06/03-11:21:16.369828  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:60592
+06/03-11:21:16.369849  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:52308
+06/03-11:21:24.234056  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:38221
+06/03-11:21:24.249217  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:38221
+06/03-11:21:28.365706  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:49498
+06/03-11:21:28.383994  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Protocol-Specific Attack] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:36318
+07/03-11:21:44.375908  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Protocol-Specific Attack] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:48416
+07/03-11:21:46.382493  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Protocol-Specific Attack] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:51983
+07/03-11:21:55.954620  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 2] {UDP} 192.168.61.4:49626 -> 239.255.255.248:40560
+07/03-11:21:55.954620  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Protocol-Specific Attack] [Priority: 2] {UDP} 192.168.61.4:49626 -> 239.255.255.248:40560
+07/03-11:21:56.899864  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 2] {UDP} 192.168.61.4:49626 -> 239.255.255.248:40560
+07/03-11:21:56.899864  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.4:49626 -> 239.255.255.248:40560
+07/03-11:21:57.900562  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 2] {UDP} 192.168.61.4:49626 -> 239.255.255.248:40560
+07/03-11:21:57.900562  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.4:49626 -> 239.255.255.248:40560
+07/03-11:21:58.914226  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 2] {UDP} 192.168.61.4:49626 -> 239.255.255.248:40560
+07/03-11:21:58.914226  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Detection of a Hostile Environment] [Priority: 2] {UDP} 192.168.61.4:49626 -> 239.255.255.248:40560
+07/03-11:22:01.379280  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Detection of a Hostile Environment] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:42955
+07/03-11:22:01.395799  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Detection of a Hostile Environment] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:33647
+07/03-11:22:09.237837  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Detection of a Hostile Environment] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:53188
+07/03-11:22:09.251803  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Detection of a Hostile Environment] [Priority: 2] ICMP 192.168.61.2:53 -> 192.168.61.131:53188
+07/03-11:22:13.364238  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Detection of a Hostile Environment] [Priority: 2] ICMP 192.168.61.2:53 -> 192.168.61.131:49605
+07/03-11:22:13.364259  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Detection of a Hostile Environment] [Priority: 2] ICMP 192.168.61.2:53 -> 192.168.61.131:60857
+07/03-11:22:29.405593  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Detection of a Hostile Environment] [Priority: 2] ICMP 192.168.61.2:53 -> 192.168.61.131:45583
+07/03-11:22:29.405614  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Detection of a Hostile Environment] [Priority: 2] ICMP 192.168.61.2:53 -> 192.168.61.131:47486
+07/03-11:22:54.278825  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Detection of a Hostile Environment] [Priority: 2] ICMP 192.168.61.2:53 -> 192.168.61.131:47885
+07/03-11:22:54.307740  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Detection of a Hostile Environment] [Priority: 2] ICMP 192.168.61.2:53 -> 192.168.61.131:47885
+07/03-11:23:42.645302  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Detection of a Hostile Environment] [Priority: 2] ICMP 192.168.61.129:40306 -> 196.200.160.123:123
+07/03-11:23:42.656307  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Detection of a Hostile Environment] [Priority: 2] ICMP 196.200.160.123:123 -> 192.168.61.129:40306
+07/03-11:23:55.888992  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 2] {UDP} 192.168.61.4:53745 -> 239.255.255.248:40560
+07/03-11:23:55.888992  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Detection of a Hostile Environment] [Priority: 2] {UDP} 192.168.61.4:53745 -> 239.255.255.248:40560
+07/03-11:23:56.854979  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.4:53745 -> 239.255.255.248:34300
+07/03-11:23:56.854979  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Detection of a Hostile Environment] [Priority: 2] {UDP} 192.168.61.1:53745 -> 239.255.255.248:34300
+07/03-11:23:57.858650  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:53745 -> 239.255.255.248:34300
+07/03-11:23:57.858650  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.1:53745 -> 239.255.255.248:34300
+07/03-11:23:58.864610  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:53745 -> 239.255.255.248:34300
+07/03-11:23:58.864610  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.1:53745 -> 239.255.255.248:34300
+07/03-11:24:11.925685  [**] [1:100004:1] ICMP HPing3 echo request Detected [**] [Priority: 0] {IPV6-ICMP} fe80::fd53:e7b7:a75f:f4cd -> ff02::2
+07/03-11:24:11.925685  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {IPV6-ICMP} fe80::fd53:e7b7:a75f:f4cd -> ff02::2
+07/03-11:24:25.022377  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Attempted Denial of Service] [Priority: 3] {UDP} 192.168.61.2:53 -> 192.168.61.131:59560
+07/03-11:25:55.073817  [**] [1:100008:1] POTENTIAL PROBE Suspicious SSDP service detection [**] [Classification: Attempted Denial of Service] [Priority: 3] {UDP} 192.168.61.2:53 -> 192.168.61.131:34300
+07/03-11:25:55.793701  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.5:52083 -> 239.255.255.248:34300
+07/03-11:25:55.793701  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Flow Violation] [Priority: 3] {UDP} 192.168.61.5:52083 -> 239.255.255.247:34300
+07/03-11:25:56.795195  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.5:52083 -> 239.255.255.247:34300
+07/03-11:25:56.795195  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Flow Violation] [Priority: 3] {UDP} 192.168.61.5:52083 -> 239.255.255.247:34300
+07/03-11:25:57.795763  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.5:52083 -> 239.255.255.247:34300
+07/03-11:25:57.795763  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Flow Violation] [Priority: 3] {UDP} 192.168.61.5:52083 -> 239.255.255.247:34300
+07/03-11:25:58.797876  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.5:52083 -> 239.255.255.247:41354
+07/03-11:25:58.797876  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Flow Violation] [Priority: 3] {UDP} 192.168.61.5:52083 -> 239.255.255.247:41354
+07/03-11:27:54.239734  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Flow Violation] [Priority: 3] {ARP} 192.168.61.2:53 -> 192.168.61.131:41354
+07/03-11:27:54.259635  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Flow Violation] [Priority: 3] {ARP} 192.168.61.2:53 -> 192.168.61.131:41354
+07/03-11:27:55.803579  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {ARP} 192.168.61.5:63498 -> 239.255.255.247:41354
+07/03-11:27:55.803579  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Flow Violation] [Priority: 3] {ARP} 192.168.61.5:63498 -> 239.255.255.247:41354
+07/03-11:27:56.805236  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {ARP} 192.168.61.5:63498 -> 239.255.255.247:41354
+07/03-11:27:56.805236  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Flow Violation] [Priority: 3] {ARP} 192.168.61.5:63498 -> 239.255.255.247:41354
+07/03-11:27:57.804889  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {ARP} 192.168.61.5:63498 -> 239.255.255.247:41354
+07/03-11:27:57.804889  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Flow Violation] [Priority: 3] {ARP} 192.168.61.5:63498 -> 239.255.255.247:41354
+08/03-11:27:58.805724  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {ARP} 192.168.61.5:63498 -> 239.255.255.247:41354
+08/03-11:29:12.160142  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Flow Violation] [Priority: 3] {ARP} 192.168.61.129:35641 -> 192.168.61.2:53
+08/03-11:29:44.426797  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Flow Violation] [Priority: 3] {ARP} 192.168.61.2:53 -> 192.168.61.131:56786
+08/03-11:29:44.468637  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Flow Violation] [Priority: 3] {UDP} 192.168.61.2:53 -> 192.168.61.131:48280
+08/03-11:29:55.804271  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:51470 -> 239.255.255.250:41354
+08/03-11:29:55.804271  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Flow Violation] [Priority: 3] {UDP} 192.168.61.1:51470 -> 239.255.255.250:41354
+09/03-11:29:56.808088  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:51470 -> 239.255.255.250:41354
+09/03-11:29:56.808088  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Flow Violation] [Priority: 3] {UDP} 192.168.61.1:51470 -> 239.255.255.250:41354
+09/03-11:29:57.809925  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:51470 -> 239.255.255.250:1900
+09/03-11:29:57.809925  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Flow Violation] [Priority: 3] {UDP} 192.168.61.1:51470 -> 239.255.255.250:1900
+09/03-11:29:58.808748  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:51470 -> 239.255.255.250:1900
+09/03-11:29:58.808748  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.1:51470 -> 239.255.255.250:1900
+09/03-11:31:38.943071  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.129:43795
+09/03-11:31:38.988855  [**] [1:100007:0] Possible SYN Flood Attack [**] [Priority: 0] {TCP} 192.168.61.129:33162 -> 34.107.221.82:80
+09/03-11:31:39.017893  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.129:43792 -> 192.168.61.2:53
+09:31:46.599437  [**] [1:100008:1] WEB-MISC Non-standard HTTP Version [**] [Classification: Executable Code Detected] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.129:47603
+09/03-11:31:55.662909  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Executable Code Detected] [Priority: 2] {UDP} 192.168.61.254:67 -> 192.168.61.131:68
+09/03-11:31:55.701213  [**] [1:100004:1] ICMP HPing3 echo request Detected [**] [Priority: 0] {IPV6-ICMP} fe80::fd53:e7b7:a75f:f4cd -> ff02::16
+09/03-11:31:55.701213  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {IPV6-ICMP} fe80::fd53:e7b7:a75f:f4cd -> ff02::16
+09/03-11:31:55.841369  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:53489 -> 239.255.255.246:1900
+09/03-11:31:55.841369  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Executable Code Detected] [Priority: 2] {UDP} 192.168.61.1:53489 -> 239.255.255.246:1900
+09/03-11:31:56.099329  [**] [1:100004:1] ICMP HPing3 echo request Detected [**] [Priority: 0] {IPV6-ICMP} fe80::fd53:e7b7:a75f:f4cd -> ff02::16
+09/03-11:31:56.099329  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {IPV6-ICMP} fe80::fd53:e7b7:a75f:f4cd -> ff02::16
+09/03-11:31:56.838068  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 1] {UDP} 192.168.61.1:53489 -> 239.255.255.246:1900
+09/03-11:31:56.838068  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Executable Code Detected] [Priority: 2] {UDP} 192.168.61.1:53489 -> 239.255.255.246:1900
+09/03-11:31:57.840049  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:53489 -> 239.255.255.246:1900
+09/03-11:31:57.840049  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Executable Code Detected] [Priority: 2] {IPv6} 192.168.61.1:53489 -> 239.255.255.246:1900
+09/03-11:31:58.838100  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 1] {IPv6} 192.168.61.1:53489 -> 239.255.255.246:1900
+09/03-11:31:58.838100  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Executable Code Detected] [Priority: 2] {IPv6} 192.168.61.1:53489 -> 239.255.255.246:1900
+09/03-11:33:43.674431  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Executable Code Detected] [Priority: 2] {IPv6} 196.200.160.123:123 -> 192.168.61.129:52661
+09/03-11:33:55.827440  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {IPv6} 192.168.61.1:57897 -> 239.255.255.246:1900
+09/03-11:33:55.827440  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Executable Code Detected] [Priority: 2] {IPv6} 192.168.61.1:57897 -> 239.255.255.246:1900
+09/03-11:33:56.839786  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {IPv6} 192.168.61.1:57897 -> 239.255.255.246:1900
+09/03-11:33:56.839786  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Executable Code Detected] [Priority: 2] {IPv6} 192.168.61.1:57897 -> 239.255.255.246:1900
+09/03-11:33:57.920112  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {IPv6} 192.168.61.1:57897 -> 239.255.255.246:1900
+09/03-11:33:57.920112  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {IPv6} 192.168.61.1:57897 -> 239.255.255.246:1900
+09/03-11:33:58.854150  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {IPv6} 192.168.61.1:57897 -> 239.255.255.250:52661
+09/03-11:33:58.854150  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {IPv6} 192.168.61.1:57897 -> 239.255.255.250:52661
+09/03-11:35:55.244418  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {IPv6} 192.168.61.2:53 -> 192.168.61.131:54796
+09/03-11:35:55.833532  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.6:63005 -> 239.255.255.245:52661
+09/03-11:35:55.833532  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Misc Attack] [Priority: 2] {UDP} 192.168.61.6:63005 -> 239.255.255.245:52661
+09/03-11:35:56.833807  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.6:63005 -> 239.255.255.245:52661
+09/03-11:35:56.833807  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Misc Attack] [Priority: 2] {UDP} 192.168.61.6:63005 -> 239.255.255.245:52661
+09/03-11:35:57.834250  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.6:63005 -> 239.255.255.245:52661
+09/03-11:35:57.834250  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Misc Attack] [Priority: 2] {UDP} 192.168.61.6:63005 -> 239.255.255.245:52661
+09/03-11:35:58.835519  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.6:63005 -> 239.255.255.245:52661
+09/03-11:37:45.431836  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Misc Attack] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:59307
+09/03-11:37:45.449243  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Misc Attack] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:44433
+09/03-11:37:55.835820  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.6:49930 -> 239.255.255.245:52661
+09/03-11:37:55.835820  [**] [1:100008:1] SUSPECTED SCAN SSDP service probing detected [**] [Classification: Misc Attack] [Priority: 2] {UDP} 192.168.61.6:49930 -> 239.255.255.245:52661
+09/03-11:37:56.837587  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.6:49930 -> 239.255.255.245:52661
+09/03-11:37:56.837587  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Misc Attack] [Priority: 2] {UDP} 192.168.61.6:49930 -> 239.255.255.250:52661
+09/03-11:37:57.838318  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.6:49930 -> 239.255.255.250:52661
+09/03-11:37:57.838318  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Misc Attack] [Priority: 2] {UDP} 192.168.61.6:49930 -> 239.255.255.250:52661
+09/03-11:37:58.839092  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.1:49930 -> 239.255.255.250:52661
+09/03-11:37:58.839092  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Misc Attack] [Priority: 5] {ESP} 192.168.61.1:49930 -> 239.255.255.250:52661
+09/03-11:38:03.403962  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: System Call Detect] [Priority: 5] {ESP} 192.168.61.2:53 -> 192.168.61.131:49971
+09/03-11:38:03.420511  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: System Call Detect] [Priority: 5] {ESP} 192.168.61.2:53 -> 192.168.61.131:54295
+09/03-11:38:11.233707  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: System Call Detect] [Priority: 5] {ESP} 192.168.61.2:53 -> 192.168.61.131:35181
+09/03-11:38:11.248219  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: System Call Detect] [Priority: 5] {ESP} 192.168.61.2:53 -> 192.168.61.131:35181
+09/03-11:38:15.395613  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: System Call Detect] [Priority: 5] {ESP} 192.168.61.2:53 -> 192.168.61.131:55662
+09/03-11:38:15.416303  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: System Call Detect] [Priority: 5] {ESP} 192.168.61.2:53 -> 192.168.61.131:37761
+09/03-11:38:31.402938  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: System Call Detect] [Priority: 5] {ESP} 192.168.61.2:53 -> 192.168.61.131:49089
+09/03-11:38:31.403063  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: System Call Detect] [Priority: 5] {ESP} 192.168.61.2:53 -> 192.168.61.131:57110
+09/03-11:38:56.237843  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: System Call Detect] [Priority: 5] {ESP} 192.168.61.2:53 -> 192.168.61.131:39800
+09/03-11:38:56.253901  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: System Call Detect] [Priority: 5] {ESP} 192.168.61.2:53 -> 192.168.61.131:39800
+09/03-11:39:25.136137  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: System Call Detect] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:46450
+09/03-11:39:55.843425  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.7:55367 -> 239.255.255.244:52661
+09/03-11:39:55.843425  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.7:55367 -> 239.255.255.244:52661
+09/03-11:39:56.845165  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.7:55367 -> 239.255.255.244:52661
+09/03-11:39:56.845165  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.7:55367 -> 239.255.255.244:1900
+10/03-11:39:57.847260  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.7:55367 -> 239.255.255.244:1900
+10/03-11:39:57.847260  [**] [1:100008:1] Potential LOIC UDP flood detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {UDP} 192.168.61.7:55367 -> 239.255.255.244:1900
+10/03-11:39:58.849096  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.7:55367 -> 239.255.255.244:1900
+10/03-11:39:58.849096  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {IP} 192.168.61.7:55367 -> 239.255.255.244:1900
+10/03-11:40:08.140480  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Potential Corporate Privacy Violation] [Priority: 3] {IP} 192.168.61.7:137 -> 192.168.61.255:137
+10/03-11:40:08.170656  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Potential Corporate Privacy Violation] [Priority: 3] {IP} 192.168.61.129:34833 -> 196.200.160.123:123
+10/03-11:40:08.185511  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Potential Corporate Privacy Violation] [Priority: 3] {IP} 196.200.160.123:123 -> 192.168.61.129:34833
+10/03-11:40:08.893728  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Potential Corporate Privacy Violation] [Priority: 3] {IP} 192.168.61.7:137 -> 192.168.61.255:137
+10/03-11:40:09.655836  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {IP} 192.168.61.7:137 -> 192.168.61.255:137
+10/03-11:40:55.010891  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {UDP} 192.168.61.2:53 -> 192.168.61.131:38293
+10/03-11:41:55.860906  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.7:56172 -> 239.255.255.244:137
+10/03-11:41:55.860906  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {UDP} 192.168.61.7:56172 -> 239.255.255.244:137
+10/03-11:41:56.870875  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.7:56172 -> 239.255.255.244:137
+10/03-11:41:56.870875  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {UDP} 192.168.61.7:56172 -> 239.255.255.244:137
+10/03-11:41:57.872857  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.7:56172 -> 239.255.255.244:137
+10/03-11:41:57.872857  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Potential Corporate Privacy Violation] [Priority: 2] {UDP} 192.168.61.7:56172 -> 239.255.255.244:137
+10/03-11:41:58.885036  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.8:56172 -> 239.255.255.243:137
+10/03-11:41:58.885036  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Shellcode Detect] [Priority: 2] {UDP} 192.168.61.8:56172 -> 239.255.255.243:137
+10/03-11:43:55.230960  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Shellcode Detect] [Priority: 2] {UDP} 192.168.61.129:68 -> 192.168.61.254:67
+10/03-11:43:55.230981  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Shellcode Detect] [Priority: 2] {UDP} 192.168.61.254:67 -> 192.168.61.129:68
+10/03-11:43:55.879723  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.8:63044 -> 239.255.255.243:137
+10/03-11:43:55.879723  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Shellcode Detect] [Priority: 1] {AH} 192.168.61.8:63044 -> 239.255.255.243:137
+10/03-11:43:56.235260  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Shellcode Detect] [Priority: 1] {AH} 192.168.61.2:53 -> 192.168.61.131:52961
+10/03-11:43:56.255331  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Shellcode Detect] [Priority: 1] {AH} 192.168.61.2:53 -> 192.168.61.131:52961
+10/03-11:43:56.883194  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.8:63044 -> 239.255.255.243:137
+10/03-11:43:56.883194  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Shellcode Detect] [Priority: 2] {UDP} 192.168.61.8:63044 -> 239.255.255.243:137
+10/03-11:43:57.894895  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.8:63044 -> 239.255.255.243:137
+10/03-11:43:57.894895  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Shellcode Detect] [Priority: 2] {UDP} 192.168.61.8:63044 -> 239.255.255.243:137
+10/03-11:43:58.906047  [**] [1:1917:6] SCAN UPnP service discover attempt [**] [Classification: Detection of a Network Scan] [Priority: 3] {UDP} 192.168.61.8:63044 -> 239.255.255.243:137
+10/03-11:43:58.906047  [**] [1:100008:1] SUSPECTED SCAN SSDP service discovery attempt [**] [Classification: Shellcode Detect] [Priority: 2] {UDP} 192.168.61.8:63044 -> 239.255.255.243:13710
