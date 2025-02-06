@@ -1,13 +1,17 @@
 const express = require('express');
 const fs = require('fs');
 const cors = require('cors');
+const path = require('path');
 
 const app = express();
 const port = 8011;
-const filePath = 'snort_afterPingAttack.alert.fast';
+const filePath = path.join(__dirname, 'snort_afterPingAttack.alert.fast');
 
 // Enable CORS for all origins
-app.use(cors());
+app.use(cors({
+  origin: 'https://darttgoblin.github.io',
+  credentials: true
+}));
 
 // Route to fetch the file data
 app.get('/', (req, res) => {
