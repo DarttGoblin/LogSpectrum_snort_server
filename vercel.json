@@ -2,14 +2,14 @@
   "version": 2,
   "builds": [
       {
-          "src": "Snort.js",
+          "src": "SnortLog.js",
           "use": "@now/node"
       }
   ],
   "routes": [
       {
           "src": "/(.*)",
-          "dest": "Snort.js"
+          "dest": "SnortLog.js"
       }
   ]
 }
