@@ -7,11 +7,13 @@ const app = express();
 const port = 8011;
 const filePath = path.join(__dirname, 'snort_afterPingAttack.alert.fast');
 
-// Enable CORS for all origins
-app.use(cors({
-  origin: 'https://darttgoblin.github.io',
-  credentials: true
-}));
+app.use(cors({origin: "*"}));
+app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    next();
+});
+
 
 // Route to fetch the file data
 app.get('/', (req, res) => {
