@@ -7,13 +7,11 @@ const app = express();
 const port = 8011;
 const filePath = path.join(__dirname, 'snort_afterPingAttack.alert.fast');
 
-app.use(cors({origin: "*"}));
-app.use((req, res, next) => {
-    res.header('Access-Control-Allow-Origin', '*');
-    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
-    next();
-});
-
+// Use CORS middleware with appropriate options
+app.use(cors({
+    origin: '*',
+    allowedHeaders: ['Content-Type', 'Accept', 'Origin', 'X-Requested-With']
+}));
 
 // Route to fetch the file data
 app.get('/', (req, res) => {
@@ -27,6 +25,9 @@ app.get('/', (req, res) => {
         res.json(snortLogFileDataLines);
     });
 });
+
+// Handle OPTIONS requests for all routes
+app.options('*', cors());
 
 // Start the server
 app.listen(port, () => {
